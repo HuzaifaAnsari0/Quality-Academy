@@ -1,4 +1,4 @@
-# Quality Academy
+# [Quality Academy](https://qualityacademy.info/)
 
 Quality Academy is a robust web application designed to facilitate quiz creation and management while providing a resource-sharing platform. It combines features similar to Google Forms and resource management applications, making it a comprehensive solution for educators, trainers, and learners.
 
